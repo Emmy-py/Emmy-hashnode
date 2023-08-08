@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmy-hashnode
-- 👀 I’m interested in blockchain development 
-- 🌱 I’m currently learning web app development through Django 
+- 👀 I’m a data analyst 
+- 🌱 I’m currently learning sql and i am very good in excel 
 - 💞️ I’m looking to collaborate through out my learning 
 - 📫 How to reach me ... emmanuelngene145@gmail.com
 
