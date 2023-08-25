@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmy-hashnode
+- 👋 Hi, I’m @Emmy_the_analyst
 - 👀 I’m a data analyst 
 - 🌱 I’m currently learning sql and i am very good in excel 
 - 💞️ I’m looking to collaborate through out my learning 
